@@ -4,4 +4,7 @@
  */
 
 export default {
+  "01-Assembly": "assembly", // 01-Assembly
+  "01-EMU8086": "emu8086", // 01-Assembly/01-EMU8086
+  "10-汇编语言": "assembly", // 01-Assembly/10-汇编语言
 };
