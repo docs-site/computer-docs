@@ -1,15 +1,15 @@
 ---
 title: sdoc
-date: 2025-09-03 19:30:39
-permalink: /sdoc/126b07e425cf34050557ccbe
+date: 2025-09-18 22:43:35
+permalink: /sdoc/126b08c981cf38a43f9cbb0e
 icon: laptop-code
 layout: page
 catalogue: true
 path: sdoc
 tdoc:
-  detailDate: 2025-09-03 19:30:39.832
-  fulluuid: 50557ccbea9c4f7080e2ad996ab376c6
-  useduuid: 50557ccbe
+  detailDate: 2025-09-18 22:43:35.906
+  fulluuid: 43f9cbb0e7234ddabaae41e129591ec5
+  useduuid: 43f9cbb0e
 ---
 
-这里是主题开发过程中的一些笔记。
+这是《sdoc》的一些笔记。
