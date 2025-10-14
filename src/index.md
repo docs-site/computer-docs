@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: ""
-  text: "Mist Docs"
-  tagline: My great project tagline
+  text: "Computer Docs"
+  tagline: 💻计算机相关学习文档
   actions:
     - theme: brand
       text: 目录
-      link: /sdoc/126b07e425cf34050557ccbe
+      link: /sdoc/126b08c981cf38a43f9cbb0e
     - theme: alt
       text: 导航
       link: /Navigation
